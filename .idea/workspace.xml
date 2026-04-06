@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abc04eac-3c7b-4bcf-a62a-468c72d1cc9c" name="Changes" comment="Creating a dict with fixed data, printing specific items">
-      <change afterPath="$PROJECT_DIR$/DAY12_Exercise32.py" afterDir="false" />
+    <list default="true" id="abc04eac-3c7b-4bcf-a62a-468c72d1cc9c" name="Changes" comment="Creating a dict with fixed data, printing specific items. Assigning a new value to age.">
+      <change afterPath="$PROJECT_DIR$/DAY12_Exercise33.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.DAY12_Exercise 30.executor": "Run",
     "Python.DAY12_Exercise31.executor": "Run",
+    "Python.DAY12_Exercise32.executor": "Run",
+    "Python.DAY12_Exercise33.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
@@ -91,12 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1775488730617</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Creating a dict with fixed data, printing specific items. Assigning a new value to age.">
+      <option name="closed" value="true" />
+      <created>1775489213308</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775489213308</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating a dict with fixed data" />
     <MESSAGE value="Creating a dict with fixed data, printing specific items" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating a dict with fixed data, printing specific items" />
+    <MESSAGE value="Creating a dict with fixed data, printing specific items. Assigning a new value to age." />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating a dict with fixed data, printing specific items. Assigning a new value to age." />
   </component>
 </project>
