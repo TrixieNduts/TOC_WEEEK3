@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abc04eac-3c7b-4bcf-a62a-468c72d1cc9c" name="Changes" comment="Initially creating an empty DICT then requesting user input and using the data to create the dict then updating existing data">
-      <change afterPath="$PROJECT_DIR$/DAY13_Exercise 35.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="abc04eac-3c7b-4bcf-a62a-468c72d1cc9c" name="Changes" comment="Creating a dict and printing using key access them increasing count using compound assignment">
+      <change beforePath="$PROJECT_DIR$/DAY13_Exercise 35.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY13_Exercise 35.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776714081257</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Creating a dict and printing using key access them increasing count using compound assignment">
+      <option name="closed" value="true" />
+      <created>1776715731312</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1776715731312</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -128,6 +135,7 @@
     <MESSAGE value="Creating a dict with fixed data, printing specific items" />
     <MESSAGE value="Creating a dict with fixed data, printing specific items. Assigning a new value to age." />
     <MESSAGE value="Initially creating an empty DICT then requesting user input and using the data to create the dict then updating existing data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initially creating an empty DICT then requesting user input and using the data to create the dict then updating existing data" />
+    <MESSAGE value="Creating a dict and printing using key access them increasing count using compound assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating a dict and printing using key access them increasing count using compound assignment" />
   </component>
 </project>

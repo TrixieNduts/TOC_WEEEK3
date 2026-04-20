@@ -16,5 +16,9 @@ def main():
     z = stats["valid"]
     print(f"{z}")
 
+    stats["count"] += 5
+    stats["valid"] = False
+    print(f"{stats}")
+
 if __name__ == "__main__":
     sys.exit(main())
