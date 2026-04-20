@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abc04eac-3c7b-4bcf-a62a-468c72d1cc9c" name="Changes" comment="Creating a dict with fixed data, printing specific items. Assigning a new value to age.">
-      <change afterPath="$PROJECT_DIR$/Day13_Exercise 34.py" afterDir="false" />
+    <list default="true" id="abc04eac-3c7b-4bcf-a62a-468c72d1cc9c" name="Changes" comment="Initially creating an empty DICT then requesting user input and using the data to create the dict then updating existing data">
+      <change afterPath="$PROJECT_DIR$/DAY13_Exercise 35.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     "Python.DAY12_Exercise31.executor": "Run",
     "Python.DAY12_Exercise32.executor": "Run",
     "Python.DAY12_Exercise33.executor": "Run",
+    "Python.DAY13_Exercise 35.executor": "Run",
     "Python.Day13_Exercise 34.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -103,13 +104,30 @@
       <option name="project" value="LOCAL" />
       <updated>1775489213308</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initially creating an empty DICT then requesting user input and using the data to create the dict then updating existing data">
+      <option name="closed" value="true" />
+      <created>1776713928086</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1776713928086</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initially creating an empty DICT then requesting user input and using the data to create the dict then updating existing data">
+      <option name="closed" value="true" />
+      <created>1776714081257</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1776714081257</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating a dict with fixed data" />
     <MESSAGE value="Creating a dict with fixed data, printing specific items" />
     <MESSAGE value="Creating a dict with fixed data, printing specific items. Assigning a new value to age." />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating a dict with fixed data, printing specific items. Assigning a new value to age." />
+    <MESSAGE value="Initially creating an empty DICT then requesting user input and using the data to create the dict then updating existing data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initially creating an empty DICT then requesting user input and using the data to create the dict then updating existing data" />
   </component>
 </project>
