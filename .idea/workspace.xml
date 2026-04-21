@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abc04eac-3c7b-4bcf-a62a-468c72d1cc9c" name="Changes" comment="Creating a dict using the user input data from the list">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="abc04eac-3c7b-4bcf-a62a-468c72d1cc9c" name="Changes" comment="Getting the average of our score">
       <change beforePath="$PROJECT_DIR$/Day14_Exercise36.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day14_Exercise36.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,7 +168,31 @@
       <option name="project" value="LOCAL" />
       <updated>1776763816193</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Getting the average of our score">
+      <option name="closed" value="true" />
+      <created>1776764480723</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1776764480723</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Getting the average of our score">
+      <option name="closed" value="true" />
+      <created>1776764589327</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1776764589327</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Getting the average of our score">
+      <option name="closed" value="true" />
+      <created>1776764651098</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1776764651098</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -180,6 +203,7 @@
     <MESSAGE value="Creating a dict and printing using key access them increasing count using compound assignment" />
     <MESSAGE value="Asking user input and storing the score data into a list" />
     <MESSAGE value="Creating a dict using the user input data from the list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating a dict using the user input data from the list" />
+    <MESSAGE value="Getting the average of our score" />
+    <option name="LAST_COMMIT_MESSAGE" value="Getting the average of our score" />
   </component>
 </project>

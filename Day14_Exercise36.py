@@ -20,8 +20,9 @@ def main():
     #part 3
     averagescore: float = sum(score)/3#gets the score average and converts it to float
 
-    print(f"{averagescore}")
+    student = {"StudentName": name, "ListOfScore": score, "average":averagescore}
 
+    print(f"{student}")
 
 if __name__ == "__main__":
     sys.exit(main())
