@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abc04eac-3c7b-4bcf-a62a-468c72d1cc9c" name="Changes" comment="Creating a dict and printing using key access them increasing count using compound assignment">
-      <change beforePath="$PROJECT_DIR$/DAY13_Exercise 35.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY13_Exercise 35.py" afterDir="false" />
-    </list>
+    <list default="true" id="abc04eac-3c7b-4bcf-a62a-468c72d1cc9c" name="Changes" comment="Creating a dict and printing using key access them increasing count using compound assignment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776715731312</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Creating a dict and printing using key access them increasing count using compound assignment">
+      <option name="closed" value="true" />
+      <created>1776715933379</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1776715933379</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
