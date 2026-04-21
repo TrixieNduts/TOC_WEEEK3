@@ -10,7 +10,7 @@ def main():
 
     score = [score1, score2,score3]#storing user input into a list
 
-    print(f"{score}")#thid prints the list
+    print(f"{score}")#this prints the list
 
     #part 2
     student = {"StudentName":name, "ListOfScore":score}#creating a dict from the user input data using keys
