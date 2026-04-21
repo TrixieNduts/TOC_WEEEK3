@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abc04eac-3c7b-4bcf-a62a-468c72d1cc9c" name="Changes" comment="Asking user input and storing the score data into a list" />
+    <list default="true" id="abc04eac-3c7b-4bcf-a62a-468c72d1cc9c" name="Changes" comment="Creating a dict using the user input data from the list">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day14_Exercise36.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day14_Exercise36.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +153,23 @@
       <option name="project" value="LOCAL" />
       <updated>1776763186631</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Creating a dict using the user input data from the list">
+      <option name="closed" value="true" />
+      <created>1776763659232</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1776763659232</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Creating a dict using the user input data from the list">
+      <option name="closed" value="true" />
+      <created>1776763816193</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1776763816193</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -160,6 +179,7 @@
     <MESSAGE value="Initially creating an empty DICT then requesting user input and using the data to create the dict then updating existing data" />
     <MESSAGE value="Creating a dict and printing using key access them increasing count using compound assignment" />
     <MESSAGE value="Asking user input and storing the score data into a list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Asking user input and storing the score data into a list" />
+    <MESSAGE value="Creating a dict using the user input data from the list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating a dict using the user input data from the list" />
   </component>
 </project>
