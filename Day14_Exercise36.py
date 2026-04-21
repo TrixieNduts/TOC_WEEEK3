@@ -18,7 +18,7 @@ def main():
     print(f"{student}")#this prints the dict
 
     #part 3
-    averagescore = sum(score)/3
+    averagescore: float = sum(score)/3
 
     print(f"{averagescore}")
 
