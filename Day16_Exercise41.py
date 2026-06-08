@@ -3,7 +3,7 @@ import sys
 def main():
 
     NAME = input("What is your name?")
-    DOB = input(int("What is your birth year?"))
+    DOB = int(input("What is your birth year?"))
     COUNTRY= input("What is the name of your country?")
 
     dict = [NAME, DOB, COUNTRY]
