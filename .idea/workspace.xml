@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abc04eac-3c7b-4bcf-a62a-468c72d1cc9c" name="Changes" comment="Getting len">
-      <change afterPath="$PROJECT_DIR$/Day15_Exercise38.py" afterDir="false" />
+    <list default="true" id="abc04eac-3c7b-4bcf-a62a-468c72d1cc9c" name="Changes" comment="Printing dict values">
+      <change afterPath="$PROJECT_DIR$/Day15_Exercise40.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +54,7 @@
     "Python.Day14_Exercise36.executor": "Run",
     "Python.Day15_Exercise37.executor": "Run",
     "Python.Day15_Exercise38.executor": "Run",
+    "Python.Day15_Exercise39.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
@@ -242,7 +243,23 @@
       <option name="project" value="LOCAL" />
       <updated>1780927668069</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Printing dict keys">
+      <option name="closed" value="true" />
+      <created>1780927924287</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1780927924287</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Printing dict values">
+      <option name="closed" value="true" />
+      <created>1780928061826</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1780928061826</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -255,6 +272,8 @@
     <MESSAGE value="Creating a dict using the user input data from the list" />
     <MESSAGE value="Getting the average of our score" />
     <MESSAGE value="Getting len" />
-    <option name="LAST_COMMIT_MESSAGE" value="Getting len" />
+    <MESSAGE value="Printing dict keys" />
+    <MESSAGE value="Printing dict values" />
+    <option name="LAST_COMMIT_MESSAGE" value="Printing dict values" />
   </component>
 </project>
